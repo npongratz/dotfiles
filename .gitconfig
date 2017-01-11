@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Nick Pongratz
+  email = npongratz@gmail.com
 [core]
   editor = vi
   excludesfile = ~/.gitignore
